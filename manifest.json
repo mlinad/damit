@@ -1,0 +1,22 @@
+{
+  "name": "Damit d.o.o. | CNC obdelava kovin Logatec",
+  "short_name": "Damit d.o.o.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "description": "CNC obdelava kovin v Logatcu. Nudimo CNC rezkanje, struženje in razrez materiala za jeklo, aluminij, baker in plastiko. Zanesljive rešitve za vaše projekte.",
+  "lang": "sl",
+  "icons": [
+    {
+      "src": "Damit_logo_logo_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Damit_logo_logo_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
