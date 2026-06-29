@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://damit.si/sitemap.xml
+Sitemap: https://mlinad.github.io/damit/sitemap.xml
