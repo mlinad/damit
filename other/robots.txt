@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mlinad.github.io/damit/sitemap-index.xml
